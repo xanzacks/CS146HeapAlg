@@ -1,0 +1,245 @@
+"C:\Program Files\Java\jdk-14.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\lib\idea_rt.jar=55341:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\zacks\IdeaProjects\CS146 HeapAlg\out\production\CS146 HeapAlg;C:\Users\zacks\.m2\repository\junit\junit\4.13.1\junit-4.13.1.jar;C:\Users\zacks\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar" HeapExperiments
+Experiment number 22
+Run 1 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 10003900
+Time per student = 1000
+
+Time to make 1000 changes = 15870700
+Time per change = 15870
+
+Run 2 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 2113400
+Time per student = 211
+
+Time to make 1000 changes = 6365200
+Time per change = 6365
+
+Run 3 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 928800
+Time per student = 92
+
+Time to make 1000 changes = 7674800
+Time per change = 7674
+
+Run 4 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 1369300
+Time per student = 136
+
+Time to make 1000 changes = 7025500
+Time per change = 7025
+
+Run 5 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 3046100
+Time per student = 304
+
+Time to make 1000 changes = 8198000
+Time per change = 8198
+
+Run 6 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 2079700
+Time per student = 207
+
+Time to make 1000 changes = 9096500
+Time per change = 9096
+
+Run 7 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 3027600
+Time per student = 302
+
+Time to make 1000 changes = 6314100
+Time per change = 6314
+
+Run 8 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 804400
+Time per student = 80
+
+Time to make 1000 changes = 6933000
+Time per change = 6933
+
+Run 9 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 451100
+Time per student = 45
+
+Time to make 1000 changes = 5809200
+Time per change = 5809
+
+Run 10 of 10
+Building a heap of 10000 students:
+Linear-time build time  = 716500
+Time per student = 71
+
+Time to make 1000 changes = 7360600
+Time per change = 7360
+
+
+Experiment number 23
+Run 1 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 31767000
+Time per student = 317
+
+Time to make 1000 changes = 70898000
+Time per change = 70898
+
+Run 2 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 32447700
+Time per student = 324
+
+Time to make 1000 changes = 71145600
+Time per change = 71145
+
+Run 3 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 12947600
+Time per student = 129
+
+Time to make 1000 changes = 71221300
+Time per change = 71221
+
+Run 4 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 8095100
+Time per student = 80
+
+Time to make 1000 changes = 77443700
+Time per change = 77443
+
+Run 5 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 6141000
+Time per student = 61
+
+Time to make 1000 changes = 58187800
+Time per change = 58187
+
+Run 6 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 5366700
+Time per student = 53
+
+Time to make 1000 changes = 70066600
+Time per change = 70066
+
+Run 7 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 8719300
+Time per student = 87
+
+Time to make 1000 changes = 65940800
+Time per change = 65940
+
+Run 8 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 8742900
+Time per student = 87
+
+Time to make 1000 changes = 61505000
+Time per change = 61505
+
+Run 9 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 8896200
+Time per student = 88
+
+Time to make 1000 changes = 71888400
+Time per change = 71888
+
+Run 10 of 10
+Building a heap of 100000 students:
+Linear-time build time  = 9760400
+Time per student = 97
+
+Time to make 1000 changes = 55235500
+Time per change = 55235
+
+
+Experiment number 24
+Run 1 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 115370100
+Time per student = 115
+
+Time to make 1000 changes = 755200000
+Time per change = 755200
+
+Run 2 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 90426600
+Time per student = 90
+
+Time to make 1000 changes = 570631900
+Time per change = 570631
+
+Run 3 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 143384700
+Time per student = 143
+
+Time to make 1000 changes = 566187500
+Time per change = 566187
+
+Run 4 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 80018900
+Time per student = 80
+
+Time to make 1000 changes = 548796600
+Time per change = 548796
+
+Run 5 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 74731200
+Time per student = 74
+
+Time to make 1000 changes = 544283400
+Time per change = 544283
+
+Run 6 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 83720500
+Time per student = 83
+
+Time to make 1000 changes = 536597600
+Time per change = 536597
+
+Run 7 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 131859300
+Time per student = 131
+
+Time to make 1000 changes = 572793600
+Time per change = 572793
+
+Run 8 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 80771600
+Time per student = 80
+
+Time to make 1000 changes = 573670500
+Time per change = 573670
+
+Run 9 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 130231300
+Time per student = 130
+
+Time to make 1000 changes = 562162200
+Time per change = 562162
+
+Run 10 of 10
+Building a heap of 1000000 students:
+Linear-time build time  = 139788200
+Time per student = 139
+
+Time to make 1000 changes = 545766000
+Time per change = 545766
